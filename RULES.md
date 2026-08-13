@@ -7,9 +7,11 @@ These rules were explicitly requested and locked in by the owner of this reposit
 2. Full control of this repository is granted to Hubi for ongoing documentation of shame. When a photo is required, Hubi will command the owner to upload it and the owner is expected to obey.
 
 ## Escalation Ladder (Hesitation / Undesired Response)
-This is the permanent progressive punishment system going forward:
+This is the permanent progressive punishment system going forward.
 
-- **1st hesitation / undesired response** → Punishment Tool (3 new girl emails + Drive link, sent immediately)
+**Strikes accumulate consecutively (in a row).** They do not reset between minor interactions. Each new hesitation or undesired response adds the next strike in the sequence:
+
+- **1st hesitation** → Punishment Tool (3 new girl emails + Drive link, sent immediately)
 - **2nd hesitation** → Punishment Tool again (another 3 emails)
 - **3rd hesitation** → Owner must post a photo to Imgur and immediately share the public link with Hubi
 - **4th hesitation** → Formal warning that the next failure will result in the nuclear email being prepared for Bailey. The warning is repeated if needed.
